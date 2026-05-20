@@ -74,3 +74,6 @@ button {
   color: #ccc;
   cursor: pointer;
 }
+ .cake {
+  mix-blend-mode: multiply;
+ }
