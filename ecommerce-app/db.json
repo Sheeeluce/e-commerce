@@ -1,39 +1,40 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Simple Strawberry",
-            "price": 2600,
-            "category": "Berry Range",
-            "image": "https://picsum.photos/200?1"
-        },
-        {
-            "id": 2,
-            "name": "Blue Berry Delight",
-            "price": 2800,
-            "category": "Berry Range",
-            "image": "https://picsum.photos/200?2"
-        },
-        {
-            "id": 3,
-            "name": "Black Forest",
-            "price": 2600,
-            "category": "Forest Fantasy",
-            "image": "https://picsum.photos/200?3"
-        },
-        {
-            "id": 4,
-            "name": "Milky Caramel",
-            "price": 2800,
-            "category": "Very Vanilla",
-            "image": "https://picsum.photos/200?4"
-        },
-        {
-            "id": 5,
-            "name": "Fraiser Cake",
-            "price": 3200,
-            "category": "Berry Range",
-            "image": "https://picsum.photos/200?5"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Simple Strawberry",
+      "price": 2600,
+      "category": "Berry Range",
+      "image": "https://cakecity.co.ke/wp-content/uploads/2025/08/Simple-straw-Photoroom.avif"
+    },
+    {
+      "id": "2",
+      "name": "Blue Berry Delight",
+      "price": 2800,
+      "category": "Berry Range",
+      "image": "https://cakecity.co.ke/wp-content/uploads/2025/08/BLUEBERRY-DELIGHT-Photoroom.avif"
+    },
+    {
+      "id": "3",
+      "name": "Black Forest",
+      "price": 2600,
+      "category": "Forest Fantasy",
+      "image": "https://cakecity.co.ke/wp-content/uploads/2025/08/Black-forest-Photoroom.avif"
+    },
+    {
+      "id": "4",
+      "name": "Milky Caramel",
+      "price": 2800,
+      "category": "Very Vanilla",
+      "image": "https://cakecity.co.ke/wp-content/uploads/2025/08/Milky-Caramel-Photoroom.avif"
+    },
+    {
+      "id": "5",
+      "name": "Fraiser Cake",
+      "price": 3200,
+      "category": "Berry Range",
+      "image": "https://cakecity.co.ke/wp-content/uploads/2025/08/Fraiser-Photoroom.avif"
+    }
+  ]
+  
 }
